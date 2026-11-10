@@ -1,0 +1,10 @@
+{
+  "name": "soundlab-core",
+  "private": true,
+  "description": "Shared foundation for SoundLab Pro apps: the project format, loudness measurement, .soundlab files and design tokens.",
+  "type": "module",
+  "scripts": {
+    "test": "cd packages/project && node tests/project.test.mjs && node tests/loudness.test.mjs && node tests/bundle.test.mjs"
+  },
+  "engines": { "node": ">=22.6" }
+}

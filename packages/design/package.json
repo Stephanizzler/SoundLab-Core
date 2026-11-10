@@ -1,0 +1,9 @@
+{
+  "name": "@soundlab/design",
+  "version": "1.0.0",
+  "description": "Design tokens for SoundLab Pro apps.",
+  "type": "module",
+  "private": true,
+  "main": "tokens.ts",
+  "exports": { ".": "./tokens.ts" }
+}
