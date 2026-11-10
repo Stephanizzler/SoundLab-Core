@@ -12,9 +12,10 @@ Two families with completely different users. Only the **Pro** family uses this 
 | SoundLab Stems | `soundlab.stems` | Planned (1st) | Split a mix into vocals, drums, bass and other stems | Vocalizer, Mix Assist, Transcribe, CoLab |
 | SoundLab Restore | `soundlab.restore` | Planned (2nd) | Noise, hum, click and clipping repair, de-reverb | Podcast, Mastering, CoLab |
 | SoundLab Podcast | `soundlab.podcast` | Planned (3rd) | Automated podcast post-production: cleanup, levelling, loudness, chapters | CoLab |
-| SoundLab Transcribe | `soundlab.transcribe` | Planned (4th) | Audio to MIDI | CoLab, future synths |
+| SoundLab Transcribe | `soundlab.transcribe` | Planned (4th) | Audio to MIDI | CoLab, Ultimate Synth |
 | SoundLab Mix Assist | `soundlab.mix-assist` | Planned (5th) | AI mixing suggestions across stems | Mastering, CoLab |
 | SoundLab Spatial | `soundlab.spatial` | Planned (6th) | Spatial and immersive mixes | Mastering, CoLab |
+| SoundLab Ultimate Synth | `soundlab.synth` | Building (0.1) | Rack of 16 classic synth and drum-machine models, step sequencer with a patch bay; renders with stems and MIDI | CoLab, Mastering, Mix Assist |
 | Natural language control | `soundlab.command` | Planned (across apps) | "Make the vocal brighter": a layer added to each app rather than a separate app | All Pro apps |
 
 The names after "SoundLab" are working names; final names are yours to choose.
