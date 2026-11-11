@@ -7,6 +7,7 @@ The shared foundation of the SoundLab Pro apps. Every Pro app uses this so that 
 | [`SPEC.md`](SPEC.md) | The SoundLab project format: the rules every app follows. |
 | [`START_HERE.md`](START_HERE.md) | Read first when starting a new SoundLab app. |
 | [`docs/APPS.md`](docs/APPS.md) | Every SoundLab app, its app id, status and how it connects to the others. |
+| [`docs/NATIVE.md`](docs/NATIVE.md) | The plan for turning finished browser apps into iOS, Android, AU, AUv3, VST3 and AAX builds. |
 | `packages/project` | `@soundlab/project`: the format in TypeScript (projects, songs, versions, files, comments, approvals), EBU R128 loudness and delivery checks, and `.soundlab` files. No dependencies. |
 | `packages/design` | `@soundlab/design`: colours, spacing and type for the Pro look. |
 

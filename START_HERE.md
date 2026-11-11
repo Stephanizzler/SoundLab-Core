@@ -27,7 +27,7 @@ Paste or link this file at the start of a new app's chat. It keeps every SoundLa
 
 - **Where the processing runs.** Choose between running in the browser or on the device (private, works offline, limited by the device) and running on a server (heavier models, ongoing cost, needs upload consent). AI-heavy apps (stems, transcription, restoration) should settle this first.
 - **Model licences.** Check that any AI model or dataset can be used in a paid product before building on it.
-- **Platform.** Web first, like the other Pro apps, unless the app needs native audio, as plug-ins (AUv3/VST) do.
+- **Platform.** Web first, like the other Pro apps. Native apps and plug-ins come after the browser version is finished; follow [`docs/NATIVE.md`](docs/NATIVE.md), and keep the audio engine free of browser APIs from the start so it can be ported to C++.
 
 ## 5. Quality bar
 
